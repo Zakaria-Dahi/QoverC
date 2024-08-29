@@ -15,11 +15,3 @@
 
 https://github.com/Zakaria-Dahi/Quantum_Simulator_Repository_PSI_Rep/assets/68249696/22d05615-b9b8-4f41-ad6c-cf8febf91b5f
 
-
-
-                        <ul> 
-                          <li><strong> Plain citation: </strong> <code>Zakaria Abdelmoiz Dahi, Enrique Alba, Rodrigo Gil-Merino, Francisco Chicano and Gabriel Luque. A Survey on Quantum Computer Simulators. Proceedings of the 19th Conference of the Spanish Association for Artificial Intelligence, CAEPIA. 941-946, 2021. </code> </li> 
-                          <li><strong> Bibtex citation:</strong>  Click <a style="text-decoration:none" href="assets/Text/reference.txt" target="_blank" ><strong>HERE</strong></a> to download. </li>
-                          <li><strong> Article PDF:</strong> Click <a style="text-decoration:none" href="assets/pdfs/article.pdf" target="_blank" ><strong>HERE</strong></a> to download. </li>
-                          <li><strong> Proceedings PDF:</strong> Click <a style="text-decoration:none" href="https://caepia20-21.uma.es/inicio_files/caepia20-21-actas.pdf" target="_blank" ><strong>HERE</strong></a> to download. </li>
-                        </ul>
