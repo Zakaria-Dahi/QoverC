@@ -6,7 +6,7 @@
 
 - This repository contains the source code of the webpage of the quantum computer simulators repository ``QoverC``.
 
-- Link: the ``QoverC`` is accessible [HERE](https://zakaria-dahi.github.io/QoverC/index.html)
+- Link: the ``QoverC`` is accessible [HERE](https://zakaria-dahi.github.io/QoverC/About.html)
 
 - This repository regroups the existing quantum computer simulators. The classification is made according to a wide enough set of criteria to guide your selection. This taxonomy is the result of our research work and analysis. So, if you have benefited somehow from our repository, please make sure to cite our work to acknowledge our efforts. Also, your contributions will be much appreciated to keep this repository up-to-date.
 
