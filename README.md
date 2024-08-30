@@ -1,4 +1,7 @@
 # QoverC: Quantum Simulator Repository
+<div align="center">
+<img src="https://github.com/Zakaria-Dahi/QoverC/blob/main/assets/img/3d_logo.gif">
+</div>
 
 **Programmer:** Zakaria Abdelmoiz DAHI. :shipit:
 
